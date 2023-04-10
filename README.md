@@ -3,4 +3,4 @@
 
 ## HashiCorp Certified Terraform Associate
 
-- ### [Exam Format](https://www.technologytickles.com/devops_professional/exam-format)
+- ### [Exam Format](https://hashicorp.technologytickles.com/terraform_associate/exam-format)
